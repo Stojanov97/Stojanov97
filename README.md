@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riste</h1>
 <h3 align="center">17 year old IT enthusiast, coding and improving since 13 years old, most recently developed interest in web development. Knowledge of C++, Embedded C, C#, Python, HTML5, CSS3, JavaScript, ReactJS, Node.js, Next.js, MongoDB, GIT etc.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stojanov97&label=Profile%20views&color=0e75b6&style=flat" alt="stojanov97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stojanov97" alt="stojanov97" /></a> </p>
-
 - 🔭 I’m currently working on [KeymakerNeno Website](https://github.com/Stojanov97/KeymakerNeno)
 
 - 🌱 I’m currently learning **Angular**
