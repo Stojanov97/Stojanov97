@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **stojanov091@gmail.com**
 
-- 📄 Know about my experiences [[https://europa.eu/europass/eportfolio/screen/share/b650f81d-322c-4834-8721-f3f2a4f769c6?lang=en](https://europa.eu/europass/eportfolio/screen/share/b650f81d-322c-4834-8721-f3f2a4f769c6?lang=en)]
+- 📄 Know about my experiences [[Europass CV](https://europa.eu/europass/eportfolio/screen/share/e9b66116-7311-436d-bf7b-eb97b7e88b0b?lang=en)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
