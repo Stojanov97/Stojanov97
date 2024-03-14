@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [KeymakerNeno Website](https://github.com/Stojanov97/KeymakerNeno)
 
-- 🌱 I’m currently learning **Angular**
-
 - 💬 Ask me about **Anything JavaScript related**
 
 - 📫 How to reach me **stojanov091@gmail.com**
