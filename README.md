@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riste</h1>
-<h3 align="center">18 year old IT enthusiast, coding and improving since 13 years old, most recently developed interest in web development. Knowledge of C++, Embedded C, C#, Python, HTML5, CSS3, JavaScript, ReactJS, Node.js, Next.js, MongoDB, GIT etc.</h3>
+<h3 align="center">18 year old IT enthusiast, coding and improving since 13 years old, most recently developed interest in web development. Knowledge of C++, Embedded C, C#, HTML5, CSS3, JavaScript, ReactJS, Node.js, Next.js, MongoDB, GIT etc.</h3>
 
 - 🔭 I’m currently working on [KeymakerNeno Website](https://github.com/Stojanov97/KeymakerNeno)
 
